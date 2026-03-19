@@ -1,0 +1,23 @@
+.logo-text{
+    font-family: "Merienda", cursive;
+    color:rgb(255, 255, 255);
+    display: flex;
+    margin-left: 50px;
+}
+
+.text-top-left{
+    margin-top: 15px;
+    margin-right: 25px;
+    font-size: 12px;
+    padding:0;
+    margin-bottom: 0;
+    font-weight:100
+}
+
+h3 {
+    text-decoration: none;
+}
+
+Link {
+    text-decoration: none;
+}

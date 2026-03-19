@@ -1,0 +1,16 @@
+.price_cost {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.item_cost {
+    font-size: 36px;
+    margin-bottom: -1vh;
+    margin-top: -1vh;
+}
+
+.price{
+    align-self: flex-end;
+    margin:0;
+}

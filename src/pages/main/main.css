@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300&display=swap');
+
+header {
+    padding: 30px;
+    background-image: url(../../../public/image/main_background.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100 vh;
+    width: 100 vh;
+}
+
+.main-text{
+    font-family: "Merienda", cursive;
+    color:white;
+    text-align: center;
+    display: flex; 
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20vh;
+}
+
+.text-center{
+    width: 670;
+    height: 44;
+    top: -7px;
+    left: 160px;
+    opacity: 1;
+    font-size: 40px;
+    margin-bottom: 0;
+}
+
+.line{
+    display: flex; 
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.additional-text{
+    font-family: "Merienda", cursive;
+    color:white;
+    text-align: center;
+    display: flex; 
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -30px;
+    font-size: 24px;
+}
+
+.btn-more{
+    width: 120;
+    height: 30;
+    top: 221px;
+    left: 434px;
+    opacity: 1;
+    border-style: solid;
+    border-radius: 3px;
+    border-width: 1px;
+    margin-top: 5vh;
+    background-color: rgba(255, 255, 255, 0);
+    border-color: white;
+    color:white;
+    font-family: "Merienda", cursive;
+    padding-left: 5vh;
+    padding-right: 5vh;
+    padding-bottom: 1vh;
+    padding-top: 1vh;
+    font-size: 14px;
+    margin-bottom: 35vh;
+    appearance: none;
+}
+
+.btn-more:hover{
+    border-color:darkgrey;
+}
+
+.btn-more:focus{
+    background-color: rgba(199, 197, 197, 0.231)
+}
+
+.heading{
+    font-family: "Merienda", cursive;
+    color:rgb(0, 0, 0);
+    text-align: center;
+    display: flex; 
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10vh;
+    font-size: 15px;
+}
+
+.paragraph{
+    font-family: "Merienda", cursive;
+    color:rgb(0, 0, 0);
+    text-align: center;
+    display: flex; 
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90vh;
+    font-size:14px
+}
+
+.paragraph_2{
+    margin-bottom: 10vh;
+}
+
+.our_best{
+    background-image: url(../../../public/image/main_footer_background.png);
+}
+
+.card_container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 250px); 
+    justify-content: center; 
+    gap: 15vh;
+}
+
+.heading_2{
+    font-family: "Merienda", cursive;
+    color:rgb(0, 0, 0);
+    text-align: center;
+    display: flex; 
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 24px;
+}
+
+.text{
+    margin-top: 20vh;
+    margin-bottom: 10vh;
+}

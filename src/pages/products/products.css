@@ -1,0 +1,76 @@
+.header{
+    background-image: url(./../../../public/image/description_background.png);
+}
+
+.main-text{
+    font-family: "Merienda", cursive;
+    color:white;
+    text-align: center;
+    display: flex; 
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5vh;
+}
+
+.text-center{
+    width: 670;
+    height: 44;
+    top: -7px;
+    left: 160px;
+    opacity: 1;
+    font-size: 40px;
+    margin-bottom: 15vh;
+}
+
+.heading{
+    font-family: "Merienda", cursive;
+    color:rgb(0, 0, 0);
+    text-align: center;
+    display: flex; 
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10vh;
+    font-size: 24px;
+}
+
+.body-image {
+    display: flex;
+    margin-right: 10vh;
+}
+
+.line {
+    display: flex; 
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5vh;
+}
+
+.body{
+    display: flex;
+    justify-content: center;
+    margin-top: 15vh;
+}
+
+.body-text{
+    font-family: "Merienda", cursive;
+    color:rgb(0, 0, 0);
+    font-size: 14px;
+    width: 346px;
+    height: 232px;
+}
+
+.card_container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 250px); 
+    justify-content: center; 
+    gap: 15vh;
+    margin-bottom: 8vh;
+    margin-top: 8vh;
+}
+
+.footer{
+    margin-top: 15vh;
+}

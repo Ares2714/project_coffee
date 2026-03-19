@@ -1,0 +1,25 @@
+
+.image{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 151px;
+    height: 130px;
+}
+
+.card{
+    background-color: #FFFFFFA6; 
+    text-align: center;
+    font-family: "Merienda", cursive;
+    color:rgb(0, 0, 0);
+    font-size:14px;
+    height: 260px;
+    width: 240px;
+    margin-bottom: 5vh;
+    margin-top: -10vh;
+}
+
+.cost{
+    text-align: right;
+    margin-right: 20px;
+}

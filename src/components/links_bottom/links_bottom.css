@@ -1,0 +1,17 @@
+.logo-text-bottom{
+    font-family: "Merienda", cursive;
+    color:rgb(0, 0, 0);
+    display: flex;
+    margin-left: 50px;
+    justify-content: center;
+    margin-bottom: 5vh;
+}
+
+.text-bottom{
+    margin-top: 15px;
+    margin-right: 25px;
+    font-size: 12px;
+    padding:0;
+    margin-bottom: 0;
+    font-weight:100;
+}
